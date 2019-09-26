@@ -4,12 +4,12 @@ This repository builds a machine learning model on Titanic dataset, creates a we
 ## Quick Look
 
 
-# Keywords
+## Keywords
 EDA, custom estimator, tree classifiers, boosting, model persistance, html, flask, Heroku
 
 ## Prerequisites
 - Datasets  
-You will find the datasets here. (https://www.kaggle.com/c/titanic/overview)  
+You will find the datasets [here](https://www.kaggle.com/c/titanic/overview).   
 - Dependencies  
 xgboost==0.90  
 Flask==1.1.1  
