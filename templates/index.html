@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> Kaggle: Titanic machine learning project</title>
+	</head>
+	<body>
+		<h1> Please enter the passenger information: </h1>
+		<p> Probability of survival would be calcualted on the inputs </p>
+		<form id = "input" method = "post" action = "prediction">
+			Age: <input type = "text" name = "Age" value = "25" /> </br>
+			Fare: <input type = "text" name = "Fare"/> </br>
+			Class(1-3): <input type = "text" name = "Pclass"/> </br>
+			Number of siblings/spouses aboard: <input type = "text" name = "SibSp"/> </br>
+			Number of parents/children aboard: <input type = "text" name = "Parch"/> </br>
+			Gender: </br>
+			<input type = "radio" name = "Sex" value = "male"> Male</br>
+			<input type = "radio" name = "Sex" value = "female"> Female</br>
+			Embark: </br>
+			<input type = "radio" name = "Embarked" value = "C"> Cherbourg</br>
+			<input type = "radio" name = "Embarked" value = "Q"> Queenstown</br>
+			<input type = "radio" name = "Embarked" value = "S"> Southampton</br>
+			<input type = "submit" value = "Submit" style="width:auto">
+		</form>
+	</body>
+</html>
