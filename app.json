@@ -1,0 +1,6 @@
+{
+  "name": "Kaggle Titanic Machine Learning",
+  "description": "Calculate the probability of survival for passengers",
+  "repository": "https://github.com/wyattwang7/Kaggle_Titanic",
+  "keywords": ["model persistence", "flask"]
+}
