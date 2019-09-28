@@ -5,7 +5,7 @@ This repository builds a machine learning model on Titanic dataset, creates a we
 - This video will help you get a feel for the app.  
 [<img src="https://img.youtube.com/vi/WlgMhIuC9pY/0.jpg" width="50%">](https://youtu.be/WlgMhIuC9pY). 
 
-- Also you could try the app yourself by clicking the button below (Might experience pretty low latency due to the policy of Heroku).  
+- Also you could try the app yourself by clicking the button below. You might experience pretty low latency due to the policy of Heroku).  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://titanic-pred.herokuapp.com/index)  
 
 ## Keywords
@@ -30,4 +30,4 @@ gunicorn==19.9.0
   - Run locally     
     1. export FLASK_APP=app.py
     2. python -m flask run
-    3. Check the link in the termninal
+    3. Check the link in the terminal
