@@ -27,7 +27,7 @@ gunicorn==19.9.0
 ## Accomplishment  
 - EDA, feature engineering and modeling (Titanic.ipynb)  
 - Model deployment (#clone the repository)
-  - Run locally     
-    1. export FLASK_APP=app.py
-    2. python -m flask run
-    3. Check the link in the terminal
+  - Run locally  
+  1. 'export FLASK_APP=app.py'  
+  2. 'python -m flask run'  
+  3. Check the link in the terminal
