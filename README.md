@@ -1,8 +1,9 @@
-# Kaggle Titanic Machine Learning modeling and deployment
+# Kaggle Titanic: Machine Learning Modeling and Deployment
 This repository builds a machine learning model on Titanic dataset, creates a web app with Flask to predict the probability of survival, and deploys the app to Heroku.
 
 ## Quick Look
 
+[![Watch the video](https://img.youtube.com/vi/WlgMhIuC9pY&feature/maxresdefault.jpg)](https://youtu.be/WlgMhIuC9pY&feature)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://titanic-pred.herokuapp.com/index)
 ## Keywords
