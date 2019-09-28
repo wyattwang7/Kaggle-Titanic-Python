@@ -3,8 +3,6 @@ This repository builds a machine learning model on Titanic dataset, creates a we
 
 ## Quick Look
 
-[<img src="https://img.youtube.com/vi/WlgMhIuC9pY&feature/maxresdefault.jpg" width="50%">](https://youtu.be/WlgMhIuC9pY)
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://titanic-pred.herokuapp.com/index)
 ## Keywords
 EDA, custom estimator, tree classifiers, boosting, model persistance, html, flask, Heroku
