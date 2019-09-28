@@ -3,7 +3,7 @@ This repository builds a machine learning model on Titanic dataset, creates a we
 
 ## Quick Look
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WlgMhIuC9pY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/WlgMhIuC9pY&feature/maxresdefault.jpg" width="50%">](https://youtu.be/WlgMhIuC9pY)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://titanic-pred.herokuapp.com/index)
 ## Keywords
